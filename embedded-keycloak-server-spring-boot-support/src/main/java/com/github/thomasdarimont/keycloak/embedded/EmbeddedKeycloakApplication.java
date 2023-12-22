@@ -15,8 +15,8 @@ import org.springframework.core.io.Resource;
 import org.springframework.util.StringUtils;
 import org.springframework.web.context.support.WebApplicationContextUtils;
 
-import javax.servlet.ServletContext;
-import javax.ws.rs.core.Context;
+import jakarta.servlet.ServletContext;
+import jakarta.ws.rs.core.Context;
 import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
